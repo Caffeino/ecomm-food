@@ -1,7 +1,9 @@
+import { Button } from '@mui/material';
+
 function App() {
 	return (
 		<>
-			<h2>Hello from ReactJs!</h2>
+			<Button variant='contained'>Hello World!</Button>
 		</>
 	);
 }
