@@ -1,6 +1,8 @@
 @import './resets.css';
 @import '@fontsource/poppins';
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
 
 body {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
+	background-color: #f3fffe !important;
 }
